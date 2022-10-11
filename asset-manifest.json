@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple_react_project_build/static/css/main.a475e616.css",
+    "main.js": "/simple_react_project_build/static/js/main.5fe5e531.js",
+    "index.html": "/simple_react_project_build/index.html",
+    "main.a475e616.css.map": "/simple_react_project_build/static/css/main.a475e616.css.map",
+    "main.5fe5e531.js.map": "/simple_react_project_build/static/js/main.5fe5e531.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a475e616.css",
+    "static/js/main.5fe5e531.js"
+  ]
+}
